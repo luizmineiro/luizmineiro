@@ -1,7 +1,7 @@
 ## Olá! Eu sou João Luiz👋
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Flutter e Node.js
+- 🌱 Estudando Flutter e Dart
 - 📫 Contate-me no email: jluizmineiro@gmail.com
 
 <div align="center">
