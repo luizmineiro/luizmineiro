@@ -1,7 +1,7 @@
 ## Olá! Eu sou João Luiz👋
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
-- 🌱 Estudando Flutter, Dart, Angular, Java, Spring Boot
+- 🌱 Estudando Flutter, Dart, React, Java, Spring Boot
 - 📫 Contate-me no email: jluizmineiro@gmail.com
 
 <div align="center">
